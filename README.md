@@ -21,8 +21,11 @@ MasterClub est une application web complète pour la gestion d'un club sportif a
 - Paiement :	Stripe API
 - Serveur :	Apache Tomcat
 - Sécurité : Spring Security
+- Architecture : Spring MVC
 
 ### Installation & Configuration
+1. Prérequis
+
 
 - Java JDK 17+
 
@@ -30,14 +33,6 @@ MasterClub est une application web complète pour la gestion d'un club sportif a
 
 - Apache Maven
 
-- Apache Tomcat 9+
-
-### Installation & Configuration
-1. Prérequis
-   
--Java JDK 17+
-- PostgreSQL 14+
-- Apache Maven
 - Apache Tomcat 9+
 
 2. Cloner le Projet
