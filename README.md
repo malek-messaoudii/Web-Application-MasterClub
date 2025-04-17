@@ -7,10 +7,10 @@ MasterClub est une application web complète pour la gestion d'un club sportif a
 
 ### Fonctionnalités Clés
 
-✅ Dashboard Admin – Gestion des membres, coachs, équipements, paiement en ligne, et statistiques.
-✅ Espace Adhérent – Réservation de séances, consultation des activités, profil personnel.
-✅ Espace Coach – Gestion des séances, suivi des adhérents, profil personnel.
-✅ Espace Visiteur – Découverte du club, inscription en ligne, informations pratiques.
+- ✅ Dashboard Admin – Gestion des membres, coachs, équipements, paiement en ligne, et statistiques.
+- ✅ Espace Adhérent – Réservation de séances, consultation des activités, profil personnel.
+- ✅ Espace Coach – Gestion des séances, suivi des adhérents, profil personnel.
+- ✅ Espace Visiteur – Découverte du club, inscription en ligne, informations pratiques.
 
 
 ### Technologies utilisés
@@ -23,6 +23,7 @@ MasterClub est une application web complète pour la gestion d'un club sportif a
 - Sécurité : Spring Security
 
 ### Installation & Configuration
+
 - Java JDK 17+
 
 - PostgreSQL 14+
